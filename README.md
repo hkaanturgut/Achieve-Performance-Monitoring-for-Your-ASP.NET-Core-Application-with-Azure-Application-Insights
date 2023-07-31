@@ -28,7 +28,7 @@ To get started with integrating Azure Application Insights into your ASP.NET Cor
 ![Screenshot 2023-07-31 at 5 52 40 AM](https://github.com/hkaanturgut/Achieve-Performance-Monitoring-for-Your-ASP.NET-Core-Application-with-Azure-Application-Insights/assets/113396342/bd5b6e36-a388-44e7-b6ec-21b76ab64757)
 
 3. Ensure you have the following prerequisites:
-   - A functioning ASP.NET Core application (if you don't have one, you can create one using the ASP.NET Core tutorial).
+   - A functioning ASP.NET Core application (if you don't have one, you can create one using the <a href="https://learn.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-7.0&tabs=macos" target="_blank">ASP.NET Core tutorial).</a> 
    - A reference to a supported version of the Application Insights NuGet package.
    - A valid Application Insights connection string to send telemetry data to Application Insights. If you don't have one, you can create a new Application Insights resource to obtain the connection string.
   
